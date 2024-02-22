@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C++ Basics and Unreal Engine 5**
+- 🌱 I’m currently learning **C++ and Unreal Engine 5**
 
 - 📫 How to reach me **julian.schweitzer03@gmail.com**
 
